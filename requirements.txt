@@ -1,7 +1,17 @@
 llama-index
+llama-index-embeddings-openai
+llama-index-llms-openai
+llama-index-multi-modal-llms-openai
+llama-index-program-openai
+llama-index-question-gen-openai
+llama-index-readers-file
+llama-index-readers-llama-parse
+llama-parse
 tiktoken
 streamlit
 python-dotenv
 pypdf
 openai
 nltk
+numpy
+pandas
