@@ -25,7 +25,7 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 PDF_DIR = os.path.join(os.path.dirname(__file__), "pdfs")
 
 # Streamlit app title
-st.title("Indian Budget 2024-2025 ChatBot", divider = "rainbow")
+st.title("Indian Budget 2024-2025 ChatBot") # divider = "rainbow"
 
 # Initialize session state for chat history
 if "messages" not in st.session_state:
